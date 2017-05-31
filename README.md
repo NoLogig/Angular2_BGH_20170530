@@ -8,3 +8,4 @@ Angular2 mit TypeScript
 npm install
 npm run start
 ```
+### Test
