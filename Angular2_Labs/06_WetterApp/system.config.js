@@ -3,8 +3,7 @@
  * Adjust as necessary for your application needs.
  */
 (function (global) {
-    SystemJS.config({
-        // paths serve as alias...wenn wir intern über npm: sprechen ... diese dann innerhalb meines projektsetups in node_modules/ gesucht werden soll
+    SystemJS.config({  
         paths: {   
             "npm:": "node_modules/"
         },
